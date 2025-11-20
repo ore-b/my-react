@@ -5,6 +5,8 @@ import Say from "./Say.jsx";
 import EventPractice from "./EventPractice.jsx";
 import RefSample from "./RefSample.jsx";
 import Iteration from "./Iteration.jsx";
+import EffectComponent from "./EffectComponent.jsx";
+import ReducerComponent from "./ReducerComponent.jsx";
 
 function App() {
 
@@ -16,6 +18,8 @@ function App() {
         <EventPractice/>
         <RefSample/>
         <Iteration/>
+        <EffectComponent/>
+        <ReducerComponent/>
       </>
   )
 }
